@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-whitebrowserimages",
+  "version": "1.0.0",
+  "description": "White images for Cordova ThemeableBrowser Plugin. This plugin imports the default images to the corresponding native folders for Android and iOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erasmo-marin/cordova-plugin-whitebrowserimages.git"
+  },
+  "author": "Erasmo Marín <erasmo.marin@gmail.com> (http://want.cl/dev/erasmo)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/erasmo-marin/cordova-plugin-whitebrowserimages/issues"
+  },
+  "homepage": "https://github.com/erasmo-marin/cordova-plugin-whitebrowserimages"
+}
