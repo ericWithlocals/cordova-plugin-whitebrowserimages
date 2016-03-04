@@ -24,6 +24,8 @@ Default images for Cordova ThemeableBrowser Plugin. This plugin imports the defa
 
 You must add ThemeableBrowser Plugin to your project in order to use this plugin. Don't forget to use a dark color for your toolbar.
 
+<img src="http://i.imgur.com/ui68xtj.png" width="300">
+
 License
 -------
 
