@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.ingage.whitebrowserimages"
-      version="0.1.0">
+      version="0.1.1">
 
     <name>Images for ThemeableBrowser</name>
     <description>White images for Cordova ThemeableBrowser Plugin. This plugin imports the default images to the corresponding native folders for Android and iOS.</description>
